@@ -19,7 +19,7 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -240,7 +240,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\eShopOnContainers.UnitTests\eShopOnContainers.UnitTests.csproj">
-      <Project>{FDD910BC-DF0F-483D-B7D5-C7D831855172}</Project>
+      <Project>{6E4285E7-7611-4440-A1B5-3513EBB13807}</Project>
       <Name>eShopOnContainers.UnitTests</Name>
     </ProjectReference>
   </ItemGroup>

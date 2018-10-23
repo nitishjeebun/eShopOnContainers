@@ -19,7 +19,7 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
@@ -364,7 +364,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\eShopOnContainers.Core\eShopOnContainers.Core.csproj">
-      <Project>{76C5F2A7-6CD5-49EA-9F33-EC44DE6539C7}</Project>
+      <Project>{BA96A12C-4EE3-46C4-BB3F-F811B554CD01}</Project>
       <Name>eShopOnContainers.Core</Name>
     </ProjectReference>
   </ItemGroup>
